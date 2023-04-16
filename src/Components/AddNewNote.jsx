@@ -54,7 +54,7 @@ const AddNewNote = (props) => {
         }
       } else {
         try {
-          const data = await fetch("http://localhost:5000/api/notes/addnote", {
+          const data = await fetch(`${baseApiLink}/notes/addnote`, {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
