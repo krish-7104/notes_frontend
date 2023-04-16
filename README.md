@@ -8,6 +8,11 @@ Backend Github Link: https://github.com/krish-7104/notes_backend
 ## Deployed Website
 
 https://notesatease.vercel.app/
+
+Api Deployed On Render.com
+
+Frontend On Vercel.com
+
 ## Tech Stack
 
 React, Redux
@@ -17,5 +22,10 @@ React, Redux
 To run this project, you will need to add the following environment variables to your .env file
 
 `REACT_APP_API_LINK` -  Add Your Api Link Here ending with `/api`
+
+
+
+
+
 
 
