@@ -5,14 +5,6 @@ This web app was created to revise my concepts of MERN and implement the latest 
 
 Backend Github Link: https://github.com/krish-7104/notes_backend
 
-## Deployed Website
-
-https://notesatease.vercel.app/
-
-Api Deployed On Render.com
-
-Frontend On Vercel.com
-
 ## Tech Stack
 
 React, Redux
